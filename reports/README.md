@@ -137,16 +137,6 @@ jobs:
       - name: Echo second
         run: echo "This is the second job"
 ```
-
----
-
-### Крок 7. Бейдж у README.md
-
-У файл `README.md` додано Markdown-бейдж:
-```markdown
-![Python application](https://github.com/Kaena0/actions/actions/workflows/python-app.yml/badge.svg)
-```
-
 ---
 
 ## Висновки
